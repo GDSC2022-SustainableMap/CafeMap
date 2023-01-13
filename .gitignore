@@ -1,0 +1,13 @@
+.bundle/
+config/secrets.yml
+coverage/*
+!coverage/.resultset.json
+repostore/
+_snippets/
+lib/trial_space
+message_log/*
+coverage/index.html
+*.db
+# Ignore application configuration
+/config/application.yml
+_cache/

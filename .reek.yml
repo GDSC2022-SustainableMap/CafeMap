@@ -1,0 +1,8 @@
+---
+  detectors:
+    IrresponsibleModule:
+      enabled: false
+  exclude_paths:
+    - lib/news_info.rb # one-time test fixture creator
+    - _snippets
+    # - app/infrastructure/googgle/repostore/

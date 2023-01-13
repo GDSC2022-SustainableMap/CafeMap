@@ -1,0 +1,4 @@
+build:
+  buildpacks:
+    - https://github.com/heroku/heroku-buildpack-multi
+    

@@ -1,0 +1,11 @@
+console
+db:drop
+db:migrate
+db:wipe
+quality:all
+quality:flog
+quality:reek
+quality:rubocop
+respec
+spec
+vcr:wipe
